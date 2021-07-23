@@ -31,7 +31,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 
-// 서브 화면
+// 서브 화면 - 마커 클릭시 나타남
 public class SubActivity extends AppCompatActivity {
     private TextView tv_result;
     private TextView tv_detail;

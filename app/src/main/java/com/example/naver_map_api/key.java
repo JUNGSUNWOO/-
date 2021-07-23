@@ -15,7 +15,7 @@ public class key
     }
 
     // 이렇게 해야 key 를 뽑아낼 수 있음
-// 필수적임 안쓰면 value 가 전부 null
+    // 필수적임 안쓰면 value 가 전부 null
     public boolean equals (final Object O) {
         if (!(O instanceof key)) return false;
         if (((key) O).name != name) return false;

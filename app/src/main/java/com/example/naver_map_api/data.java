@@ -1,5 +1,5 @@
 package com.example.naver_map_api;
-
+//빅데이터 파일을 읽어와 파싱하기 위한 객체에 대한 클래스
 public class data {
     public static String name;
     public static int month;
